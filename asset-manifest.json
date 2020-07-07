@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bustia-esplai/static/css/main.7f79f2db.chunk.css",
+    "main.js": "/bustia-esplai/static/js/main.b7a97017.chunk.js",
+    "main.js.map": "/bustia-esplai/static/js/main.b7a97017.chunk.js.map",
+    "runtime-main.js": "/bustia-esplai/static/js/runtime-main.1b7f066a.js",
+    "runtime-main.js.map": "/bustia-esplai/static/js/runtime-main.1b7f066a.js.map",
+    "static/js/2.b88a3aea.chunk.js": "/bustia-esplai/static/js/2.b88a3aea.chunk.js",
+    "static/js/2.b88a3aea.chunk.js.map": "/bustia-esplai/static/js/2.b88a3aea.chunk.js.map",
+    "index.html": "/bustia-esplai/index.html",
+    "precache-manifest.6045868a13f277e551cd7c577f726ad3.js": "/bustia-esplai/precache-manifest.6045868a13f277e551cd7c577f726ad3.js",
+    "service-worker.js": "/bustia-esplai/service-worker.js",
+    "static/css/main.7f79f2db.chunk.css.map": "/bustia-esplai/static/css/main.7f79f2db.chunk.css.map",
+    "static/js/2.b88a3aea.chunk.js.LICENSE.txt": "/bustia-esplai/static/js/2.b88a3aea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b7f066a.js",
+    "static/js/2.b88a3aea.chunk.js",
+    "static/css/main.7f79f2db.chunk.css",
+    "static/js/main.b7a97017.chunk.js"
+  ]
+}
