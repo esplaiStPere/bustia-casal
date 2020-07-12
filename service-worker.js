@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bustia-casal/precache-manifest.b4b9cfc3a8531351e7e0fb55c17cf693.js"
+  "/bustia-casal/precache-manifest.8f6d115b5cd44a1bd947170b5dad84b6.js"
 );
 
 self.addEventListener('message', (event) => {
