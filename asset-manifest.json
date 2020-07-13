@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/bustia-casal/static/css/main.0585ea63.chunk.css",
-    "main.js": "/bustia-casal/static/js/main.8f122852.chunk.js",
-    "main.js.map": "/bustia-casal/static/js/main.8f122852.chunk.js.map",
+    "main.css": "/bustia-casal/static/css/main.a80bdf51.chunk.css",
+    "main.js": "/bustia-casal/static/js/main.b39d8354.chunk.js",
+    "main.js.map": "/bustia-casal/static/js/main.b39d8354.chunk.js.map",
     "runtime-main.js": "/bustia-casal/static/js/runtime-main.de400201.js",
     "runtime-main.js.map": "/bustia-casal/static/js/runtime-main.de400201.js.map",
     "static/js/2.b88a3aea.chunk.js": "/bustia-casal/static/js/2.b88a3aea.chunk.js",
     "static/js/2.b88a3aea.chunk.js.map": "/bustia-casal/static/js/2.b88a3aea.chunk.js.map",
     "index.html": "/bustia-casal/index.html",
-    "precache-manifest.750674a9e61654e67f3822921743108f.js": "/bustia-casal/precache-manifest.750674a9e61654e67f3822921743108f.js",
+    "precache-manifest.7254b49d3b7fa97599b878bc17865724.js": "/bustia-casal/precache-manifest.7254b49d3b7fa97599b878bc17865724.js",
     "service-worker.js": "/bustia-casal/service-worker.js",
-    "static/css/main.0585ea63.chunk.css.map": "/bustia-casal/static/css/main.0585ea63.chunk.css.map",
-    "static/js/2.b88a3aea.chunk.js.LICENSE.txt": "/bustia-casal/static/js/2.b88a3aea.chunk.js.LICENSE.txt"
+    "static/css/main.a80bdf51.chunk.css.map": "/bustia-casal/static/css/main.a80bdf51.chunk.css.map",
+    "static/js/2.b88a3aea.chunk.js.LICENSE.txt": "/bustia-casal/static/js/2.b88a3aea.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bustia-casal/static/media/foulard_fons-1.49b513c0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.de400201.js",
     "static/js/2.b88a3aea.chunk.js",
-    "static/css/main.0585ea63.chunk.css",
-    "static/js/main.8f122852.chunk.js"
+    "static/css/main.a80bdf51.chunk.css",
+    "static/js/main.b39d8354.chunk.js"
   ]
 }
