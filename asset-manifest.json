@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bustia-casal/static/css/main.3be70c88.chunk.css",
-    "main.js": "/bustia-casal/static/js/main.4504af3c.chunk.js",
-    "main.js.map": "/bustia-casal/static/js/main.4504af3c.chunk.js.map",
+    "main.js": "/bustia-casal/static/js/main.20062c24.chunk.js",
+    "main.js.map": "/bustia-casal/static/js/main.20062c24.chunk.js.map",
     "runtime-main.js": "/bustia-casal/static/js/runtime-main.de400201.js",
     "runtime-main.js.map": "/bustia-casal/static/js/runtime-main.de400201.js.map",
     "static/js/2.a08d7b6e.chunk.js": "/bustia-casal/static/js/2.a08d7b6e.chunk.js",
     "static/js/2.a08d7b6e.chunk.js.map": "/bustia-casal/static/js/2.a08d7b6e.chunk.js.map",
     "index.html": "/bustia-casal/index.html",
-    "precache-manifest.b27c9aab1fbcfd964e029d1b5318e909.js": "/bustia-casal/precache-manifest.b27c9aab1fbcfd964e029d1b5318e909.js",
+    "precache-manifest.544dc26fe0a7acd77fb5f2f26568810a.js": "/bustia-casal/precache-manifest.544dc26fe0a7acd77fb5f2f26568810a.js",
     "service-worker.js": "/bustia-casal/service-worker.js",
     "static/css/main.3be70c88.chunk.css.map": "/bustia-casal/static/css/main.3be70c88.chunk.css.map",
     "static/js/2.a08d7b6e.chunk.js.LICENSE.txt": "/bustia-casal/static/js/2.a08d7b6e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.de400201.js",
     "static/js/2.a08d7b6e.chunk.js",
     "static/css/main.3be70c88.chunk.css",
-    "static/js/main.4504af3c.chunk.js"
+    "static/js/main.20062c24.chunk.js"
   ]
 }
